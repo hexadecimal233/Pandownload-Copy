@@ -1,0 +1,11 @@
+①使用Chrome浏览器登录百度网盘网页版 https://pan.baidu.com/
+
+②查看当前使用的cookie
+
+③获取BDUSS
+
+注意是全选复制，不要直接复制，会不全的。
+
+④获取STOKEN
+
+⑤组合成：BDUSS=xxxxxx; STOKEN=xxxxxx，复制到PanDownload登录即可
