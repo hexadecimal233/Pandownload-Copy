@@ -1,3 +1,3 @@
 我个人推荐的几个项目
-https://github.com/Womsxd/pandownload.com_Pages_Backup
-https://github.com/TkzcM/pandownload-fake-server
+网站镜像https://github.com/Womsxd/pandownload.com_Pages_Backup
+假服务器https://github.com/TkzcM/pandownload-fake-server
